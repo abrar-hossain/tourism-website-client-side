@@ -3,7 +3,7 @@
 . Name: Awesome Park
 . URL: https://jatra-front-end.web.app/
 
-# Doucumentation:
+# Description:
 1. high security.
 2. green area.
 3. near to dhaka.
