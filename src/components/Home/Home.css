@@ -1,0 +1,10 @@
+.subscriber {
+height: 500px;
+background-color: #fceae8;
+}
+.column{
+    height: 400px;
+    width: 100px;
+    border: 2px solid black;
+}
+

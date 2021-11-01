@@ -1,0 +1,44 @@
+[
+    {
+        "key": 1,
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/17/9c/63/d5/water-world-aqua-park.jpg",
+        "ride": "Water world",
+        "price": "1500",
+        "description": "This wet and wonderful Awesome park Water World (first ever in Bangladesh) features gallons of fun rides and attractions, from riveting to relaxing. The whole family can enjoy the tides of the wave pool and other rides.And the Rides are:Wave Pool,Family Curve Slide,Chute Slide,Wave Runner,Doom Slide,Multi-Play Zone,Rain Dance,Mist & Fall"
+    },
+    {
+        "key": 2,
+        "img": "https://nandanpark.com/wp-content/uploads/2019/11/ZIP-slide-1-300x300.jpg",
+        "ride": "Rides-package",
+        "price": "1000",
+        "description": "Treat yourself to a day of pleasure in Awesome Park. The rides and greeneries will give you ultimate way to enjoy with your families and friends. With so many choices From the adventurous rides to the gentlest adventures, we’ve got plenty of rides you can enjoy together. These are the rides where moms, dads and kids can all ride together."
+    },
+    {
+        "key": 3,
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/0f/a3/ad/2c/pool--v16448613.jpg",
+        "ride": "Book Village",
+        "price": "2000",
+        "description": "A perfect getaway from chaotic and busy city life, yet not too far away from city.Awesome is happily introducing you with Awesome Village, an exclusive living, inside Awesome Park. Greeneries and vintage cottages will give you a feel that you are in a village with exclusive facilities while in Awesome Village."
+    },
+    {
+        "key": 4,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/H2199_Bumper_Cars_-_Autorata_C.JPG/220px-H2199_Bumper_Cars_-_Autorata_C.JPG",
+        "ride": "Book Picnic Spot",
+        "price": "5000",
+        "description": "Our picnic spot is famous destination for the tourists, picnic parties and families for a day out. Its a very big secured forest area with lake across the park area."
+    },
+    {
+        "key": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqNQuySmkQl2YkmifEu5sN7jFlfgXENa-C2A&usqp=CAU",
+        "ride": "Whole Park Package with Lunch",
+        "price": "900",
+        "description": "you can enjoy this package. With this package you can use al rides and get a lunc. This will be a bery good deecision."
+    },
+    {
+        "key": 6,
+        "img": "https://i.ytimg.com/vi/pZh1mDRKpUA/maxresdefault.jpg",
+        "ride": "Super Saver Package ",
+        "price": "70",
+        "description": "This package includes with water world and 10 rides and lunch."
+    }
+]

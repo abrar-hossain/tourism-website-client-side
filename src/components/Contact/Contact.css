@@ -1,0 +1,25 @@
+.cont-parent{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    color: #5D5DF9;
+    text-align: center;
+}
+.cont-card{
+    border-top:10px solid #5D5DF9;
+    border-bottom:10px solid #5D5DF9;
+    height: 450px;
+    padding: 55px 45px;
+    width: 450px;
+    transition: 0.4s all;
+    
+}
+.cont-card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+    transform: translateY(-15px);
+    transition: 1s all;
+}
+.cont-card h5{
+    font-size: 18px;
+    margin-top: 20px;
+}
